@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 I'm a third year undergraduate student from [Ocean University of China](https://www.ouc.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.  
-
+我是[中国海洋大学](https://www.ouc.edu.cn/)的大三学生，
 I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
 ————————————————
 
