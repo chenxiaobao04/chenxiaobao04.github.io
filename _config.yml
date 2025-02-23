@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "陈小宝"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "走在数学的朝圣路上，永不停歇。"
+  location         : "山东，青岛"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "amyhhhh8061@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
