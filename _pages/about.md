@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "欢迎来到我的世界！"
+title: "陈小宝的个人主页"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-I'm a third year undergraduate student from [Ocean University of China](https://www.ouc.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.  
-我是[中国海洋大学](https://www.ouc.edu.cn/)的大三学生，
+我是[中国海洋大学](https://www.ouc.edu.cn/)的大三学生，对分析方面的数学很感兴趣。
 I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
 ————————————————
 
