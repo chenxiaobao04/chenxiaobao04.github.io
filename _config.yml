@@ -80,7 +80,7 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: '我参加过的比赛'    
   conferences:
     title: 'Conference Papers'
 
