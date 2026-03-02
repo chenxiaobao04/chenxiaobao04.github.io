@@ -24,7 +24,8 @@ redirect_from:
 英语水平与编程技能
 ======
 * CET6：499分
-*编程
+
+* 编程
   * MATLAB
   * Python
   * C
