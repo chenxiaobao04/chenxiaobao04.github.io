@@ -8,17 +8,17 @@ main:
   - title: "比赛&科研"
     url: /publications/   
 
-  - title: "随笔"
-    url: /talks/    
+#  - title: "随笔"
+#    url: /talks/    
 
-  - title: "课程"
-    url: /teaching/    
+#  - title: "课程"
+#    url: /teaching/    
     
-  - title: "作品集"
-    url: /portfolio/
+#  - title: "作品集"
+#    url: /portfolio/
         
   - title: "简历"
     url: /cv/
     
-  - title: "指导"
-    url: /markdown/
+#  - title: "指导"
+#    url: /markdown/
